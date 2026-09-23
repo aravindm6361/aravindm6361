@@ -85,12 +85,6 @@ A web-based application that provides soil-related information based on selected
 
 **Technologies:** HTML • CSS • JavaScript
 
-#### 💧 Smart Water Tank Monitoring System
-
-A web-based monitoring system designed to track water tank levels and provide a simple monitoring dashboard.
-
-**Technologies:** HTML • CSS • JavaScript
-
 ### 🎯 2026 Goals
 
 * 📌 Become a professional **Java Backend Developer**
@@ -124,7 +118,7 @@ A web-based monitoring system designed to track water tank levels and provide a 
   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="linkedin.com/in/aravind-m-266458343">
   <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
 </a>
 
