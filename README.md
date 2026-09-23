@@ -1,84 +1,139 @@
-## Hi there 👋
+# Hi 👋, I'm Aravind M
 
-<!--
-**aravindm6361/aravindm6361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Aravind M</a></h1>
-<h3 align="center">A passionate Software Developer from Karnataka India &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center">A passionate Software Developer from Karnataka, India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aravindm6361&label=Profile%20views&color=0e75b6&style=flat" alt="aravindm6361" />
+</p>
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
+<p align="center">
+  <a href="https://github.com/aravindm6361">
+    <img src="https://img.shields.io/github/followers/aravindm6361?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/aravindm6361">
+    <img src="https://img.shields.io/github/stars/aravindm6361?label=Stars&style=for-the-badge" alt="GitHub stars"/>
+  </a>
+</p>
+
+<img align="right" height="300" width="400" alt="Coding GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+### 👨‍💻 About Me
+
+* 🎓 I'm a **B.E. Computer Science & Engineering graduate**
+* 💻 I'm a **Fresher / Aspiring Software Developer**
+* 🌱 Currently learning **Java, Spring Boot, JavaScript, SQL & DSA**
+* 🚀 Interested in **Java Backend Development & Full Stack Development**
+* 📱 Experienced with **Kotlin & Android Development**
+* 🔧 I enjoy building practical projects using **Java, JavaScript, HTML, CSS and SQL**
+* 💡 Interested in **Software Development, Backend Development and IoT**
+* 📍 Based in **Karnataka, India**
+* 🤝 Open to **Software Developer / Java Developer opportunities**
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 
 </p>
 
-### Blogs posts
+### 📚 Currently Learning
 
-<!-- BLOG-POST-LIST:START -->
+* ☕ **Core Java & Advanced Java**
+* 🌱 **Spring Boot**
+* 🗄️ **SQL & Database Management**
+* 🌐 **JavaScript & Web Development**
+* 🧠 **Data Structures & Algorithms**
+* ⚛️ **React**
+* 🔗 **REST APIs**
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
+### 🚀 Projects
+
+#### 💰 SpendSense – Smart Expense Manager
+
+Android application built using **Kotlin and Jetpack Compose** for managing personal expenses.
+
+**Technologies:** Kotlin • Jetpack Compose • Android
+
+#### 🌫️ Air Quality Monitoring System
+
+An IoT-based project for monitoring air quality using sensors and displaying environmental data through a web dashboard.
+
+**Technologies:** Arduino • ESP8266 • MQ135 • HTML • CSS • JavaScript • ThingSpeak
+
+#### 🌱 Soil Analysis Expert System
+
+A web-based application that provides soil-related information based on selected soil types.
+
+**Technologies:** HTML • CSS • JavaScript
+
+#### 💧 Smart Water Tank Monitoring System
+
+A web-based monitoring system designed to track water tank levels and provide a simple monitoring dashboard.
+
+**Technologies:** HTML • CSS • JavaScript
+
+### 🎯 2026 Goals
+
+* 📌 Become a professional **Java Backend Developer**
+* 📌 Master **Spring Boot & REST APIs**
+* 📌 Improve **DSA & problem-solving skills**
+* 📌 Build real-world software projects
+* 📌 Contribute to **Open Source**
+* 📌 Get my first **Software Developer role**
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindm6361&show_icons=true&theme=tokyonight" alt="Aravind's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindm6361&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+### 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindm6361&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+### 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/aravindm6361">
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/>
+</a>
+
+</p>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+⭐ **Thanks for visiting my profile!**
 
-Last Edited on: 08/08/2022
+💻 Keep coding | 🚀 Keep learning | 🌱 Keep growing
+
+**Last Edited: September 2026**
